@@ -1,0 +1,27 @@
+{
+    "Name": "tspo_brain",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "License": "cc0",
+    "Authors": ["Xuefeng Yan", "Fabrice G. Simeon", "Jeih-San Liow", "Cheryl L. Morse", "Susovan Jana", "Jose A. Montero Santamaria", "Madeline Jenkins", "Sami S. Zoghbi", "Victor W. Pike", "Robert B. Innis", "Paolo Zanotti-Fregnara"],
+    "Acknowledgements": "The authors thank the NIH Clinical Center PET Department and the clinical staff of the Molecular Imaging Branch of the NIMH for help in completing the studies, and Ioline D. Henter (NIMH) for invaluable editorial assistance.",
+    "HowToAcknowledge": "",
+    "Funding": [],
+    "EthicsApprovals": [],
+    "ReferencesAndLinks": [],
+    "DatasetDOI": "",
+    "SourceDatasets": [],
+    "GeneratedBy": [
+        {
+            "Name": "ezBIDS",
+            "Version": "1.0.0",
+            "Description": "ezBIDS is a web-based tool for converting neuroimaging datasets to BIDS, requiring neither coding nor knowledge of the BIDS specification",
+            "CodeURL": "https://brainlife.io/ezbids/",
+            "Container": {
+                "Type": "docker",
+                "Tag": "brainlife/ezbids-handler"
+            }
+        }
+    ],
+    "HEDVersion": []
+}
