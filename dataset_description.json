@@ -22,7 +22,9 @@
         "ZIAMH002852",
         "ZIAMH002793"
     ],
-    "EthicsApprovals": [],
+    "EthicsApprovals": [
+        "The study was approved by the National Institutes of Health (NIH) Combined Neurosciences Institutional Review Board (protocol number: 000674; ClinicalTrials.gov identifier: NCT05564429), in accordance with the Declaration of Helsinki. All participants provided written informed consent prior to enrollment in the study."
+    ],
     "ReferencesAndLinks": [],
     "DatasetDOI": "",
     "SourceDatasets": [],
