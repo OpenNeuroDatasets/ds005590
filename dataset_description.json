@@ -18,7 +18,9 @@
     ],
     "Acknowledgements": "The authors thank the NIH Clinical Center PET Department and the clinical staff of the Molecular Imaging Branch of the NIMH for help in completing the studies, and Ioline D. Henter (NIMH) for invaluable editorial assistance.",
     "HowToAcknowledge": "",
-    "Funding": [],
+    "Funding": [
+        "ZIAMH002852"
+    ],
     "EthicsApprovals": [],
     "ReferencesAndLinks": [],
     "DatasetDOI": "",
